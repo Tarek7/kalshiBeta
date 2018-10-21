@@ -1,0 +1,25 @@
+Metadata-Version: 1.1
+Name: django-birthday
+Version: 0.1.2
+Summary: Helper field and manager for working with birthdays
+Home-page: https://github.com/bashu/django-birthday
+Author: Basil Shubin
+Author-email: basil.shubin@gmail.com
+License: BSD License
+Download-URL: https://github.com/bashu/django-birthday/zipball/master
+Description: Please refer to `the documentation <http://django-birthday.rtfd.org/>`_.
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Django
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic Content
+Requires: Django (>=1.4.2)
